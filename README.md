@@ -1,5 +1,7 @@
 # Repo Analytics
 
+Originally created by @admiralawkbar.
+
 This script is used to gather information about all or a subset of repositories on a **GitHub Enterprise** system.  
 Once the script has ran, it will generate the file: `repo-analytics.csv` with all results.  
 The results file can then be used to help triage information about your current system and usage.  
